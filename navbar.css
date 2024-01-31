@@ -1,0 +1,24 @@
+.nav{
+    background:rgb(31, 203, 77);
+    text-align: center;
+    text-decoration-color:white,
+}
+
+.btn{
+    margin:5px;
+    background: rgb(23, 120, 42);
+    color: white;
+    border-radius: 5px;
+}
+
+.login-btn{
+    margin-left: 550px;
+    background: rgb(23, 120, 42);
+    color: white;
+    border-radius: 5px;
+}
+
+.box{
+    border-radius: 5px;
+    margin-left: 20px;
+}
